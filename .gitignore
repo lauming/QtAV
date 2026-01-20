@@ -69,6 +69,7 @@ Debug
 Release
 *.Debug
 *.Release
+ffmpeg_dll/
 
 # Ignore temporary Python files
 python/PyQtAV.api
